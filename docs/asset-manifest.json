@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.98bbdadc.css",
-    "main.js": "/static/js/main.ad30b98f.js",
-    "index.html": "/index.html",
-    "main.98bbdadc.css.map": "/static/css/main.98bbdadc.css.map",
-    "main.ad30b98f.js.map": "/static/js/main.ad30b98f.js.map"
+    "main.css": "/AzeezBayo/AzeezBayo.github.io/static/css/main.98bbdadc.css",
+    "main.js": "/AzeezBayo/AzeezBayo.github.io/static/js/main.2a8c2caa.js",
+    "index.html": "/AzeezBayo/AzeezBayo.github.io/index.html",
+    "main.98bbdadc.css.map": "/AzeezBayo/AzeezBayo.github.io/static/css/main.98bbdadc.css.map",
+    "main.2a8c2caa.js.map": "/AzeezBayo/AzeezBayo.github.io/static/js/main.2a8c2caa.js.map"
   },
   "entrypoints": [
     "static/css/main.98bbdadc.css",
-    "static/js/main.ad30b98f.js"
+    "static/js/main.2a8c2caa.js"
   ]
 }
