@@ -45,7 +45,7 @@ Verificare - [Verificare](https://verificare.me/)
 
 ## Author
 
-Azeez Bayo - [Github](https://github.com/AzeezBayo) / [Twitter](https://twitter.com/RealAzeezBayo)
+Azeez Bayo - [Github](https://github.com/AzeezBayo) / [LinkedIn](https://www.linkedin.com/in/azeezbayo)
 
 ## License
 All rights reserved  
