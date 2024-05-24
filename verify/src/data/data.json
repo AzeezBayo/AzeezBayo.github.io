@@ -1,0 +1,158 @@
+{
+  "Header": {
+    "title": "Verificare",
+    "paragraph": "Verificare is an identity proofing multimodal platform built on massive parallel processing architechure."
+  },
+  "About": {
+    "paragraph": "Verificare is an army ant in the technology industry. Focusing on Big data, artificial intelligence, cybersecurty & quantum technology to build a safe & secure society.",
+    "Why": [
+      "Manage & control your data",
+      "Gain access to global identity",
+      "Explore private & Public services" 
+    ],
+    "Why2": [
+      "Onboard users easily",
+      "Do business with ease",
+      "individual-agencies smooth interaction"
+    ]
+  },
+  "GovernmentServices": [
+    {
+      "title": "Mortgage agency",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg" 
+    },
+    {
+      "title": "Military",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "FIRS",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Immigration",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Pension agency",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Health care",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-shield", 
+      "name": "Defense",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Commerce",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Agencies",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Health care",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Aerospace",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-eye",
+      "name": "Biometric solutions",
+      "text": ""
+    }
+  ],
+  "Private": [
+    {
+      "title": "Finance",
+      "largeImage": "img/portfolio2/01-large.jpg",
+      "smallImage": "img/portfolio2/01-small.jpg"
+    },
+    {
+      "title": "Commerce",
+      "largeImage": "img/portfolio2/02-large.jpg",
+      "smallImage": "img/portfolio2/02-small.jpg"
+    },
+    {
+      "title": "Hospitality",
+      "largeImage": "img/portfolio2/03-large.jpg",
+      "smallImage": "img/portfolio2/03-small.jpg"
+    },
+    {
+      "title": "Aerospace",
+      "largeImage": "img/portfolio2/04-large.jpg",
+      "smallImage": "img/portfolio2/04-small.jpg"
+    },
+    {
+      "title": "Real estate",
+      "largeImage": "img/portfolio2/05-large.jpg",
+      "smallImage": "img/portfolio2/05-small.jpg"
+    },
+    {
+      "title": "Media",
+      "largeImage": "img/portfolio2/06-large.jpg",
+      "smallImage": "img/portfolio2/06-small.jpg"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/02.jpg",
+      "name": "Azeez Bayo",
+      "job": "Software engineer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "ALX Africa",
+      "job": "Business developer"
+    }
+  ],
+  "Contact": {
+    "address": "Lagos State, Nigeria",
+    "phone": "+2348074113131",
+    "email": "azeez.bayo@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/azeezbayo",
+    "twitter": "https://twitter.com/RealAzeezBayo",
+    "whatsapp": "https://wa.me/message/2MK7SAUB7NU2O1",
+    "facebook": "fb.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-user", 
+      "title": "Global digtal ID",
+      "text": "We help identify individuals"
+    },
+    {
+      "icon": "fa fa-plane", 
+      "title": "Aerospace",
+      "text": "We provide fuel-injected hybrid-electric drone solutions."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Defense",
+      "text": "We provide forces with support & intelligence gatherings"
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Agency",
+      "text": "Explore federal, State, & local services"
+    }
+  ]
+}
