@@ -116,11 +116,16 @@
     {
       "img": "img/team/02.jpg",
       "name": "Azeez Bayo",
-      "job": "Software engineer"
+      "job": "AI & Software engineer"
+    },
+    {
+      "img": "img/team/03.JPEG",
+      "name": "Bisola Scott",
+      "job": "Tech Lawyer & privacy specialist"
     },
     {
       "img": "img/team/01.jpg",
-      "name": "ALX Africa",
+      "name": "ALX Venture",
       "job": "Business developer"
     }
   ],
