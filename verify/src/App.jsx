@@ -4,7 +4,7 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Team } from "./components/Team";
+//import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import { Private } from "./components/private";
 import { Government } from "./components/government";
@@ -61,7 +61,7 @@ const App = () => {
       <Government data={landingPageData.GovernmentServices} />
       <Services data={landingPageData.Services} />
       <Private data={landingPageData.Private} />
-      <Team data={landingPageData.Team} />
+      
       <Contact data={landingPageData.Contact} />
     </Styles.Wrapper>
   );
