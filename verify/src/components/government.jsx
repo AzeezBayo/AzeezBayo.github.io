@@ -8,7 +8,7 @@ export const Government = (props) => {
         <div className="section-title">
           <h2>Public networks</h2>
           <p>
-           We serves as a bridge between agencies, businessses, and individuals enabling effective interactions. 
+           We serves as a bridge between agencies, businessses, and individuals strengthening relationships. 
           </p>
         </div>
         <div className="row">

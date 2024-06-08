@@ -4,16 +4,16 @@
     "paragraph": "Verificare is an identity proofing multimodal platform built on massive parallel processing architechure."
   },
   "About": {
-    "paragraph": "Verificare is an army ant in the technology industry. Focusing on Big data, artificial intelligence, cybersecurty & quantum technology to build a safe & secure society.",
+    "paragraph": "Verificare is an identity proofing platform focusing on Big data, artificial intelligence, cybersecurty & quantum technology to build a safe & secure society.",
     "Why": [
       "Manage & control your data",
       "Gain access to global identity",
-      "Explore private & Public services" 
+      "Easily access genuine services" 
     ],
     "Why2": [
-      "Onboard users easily",
-      "Do business with ease",
-      "individual-agencies smooth interaction"
+      "Onboard verified users",
+      "Save time acquiring customers",
+      "Client-Provider relationship"
     ]
   },
   "GovernmentServices": [
@@ -145,19 +145,19 @@
       "text": "We help identify individuals"
     },
     {
-      "icon": "fa fa-plane", 
-      "title": "Aerospace",
-      "text": "We provide fuel-injected hybrid-electric drone solutions."
-    },
+      "icon": "fa fa-building",
+      "title": "Customer acquisition",
+      "text": "Saves time on customer acquisition"
+    }, 
     {
       "icon": "fa fa-shield",
       "title": "Defense",
       "text": "We provide forces with support & intelligence gatherings"
     },
     {
-      "icon": "fa fa-globe",
-      "title": "Agency",
-      "text": "Explore federal, State, & local services"
+      "icon": "fa fa-plane", 
+      "title": "Aerospace",
+      "text": "We provide fuel-injected hybrid-electric drone solutions."
     }
   ]
 }

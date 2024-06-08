@@ -8,7 +8,7 @@ export const Private = (props) => {
         <div className="section-title">
           <h2>Private networks</h2>
           <p>
-            We collaborate with private entities by helping them onboard verified users, also help individuals connect to verified businessses.
+            We collaborate with private entities helping them acquire verified clients, also helps potential clients connect to genuine businessses enabling client-privider trust.
           </p>
         </div>
         <div className="row">
