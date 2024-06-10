@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Verificare",
-    "paragraph": "Verificare is an identity proofing multimodal platform built on massive parallel processing architechure."
+    "paragraph": "Verificare is an identity proofing multimodal SaaS application built on massive parallel processing architechure."
   },
   "About": {
-    "paragraph": "Verificare is an identity proofing platform focusing on Big data, artificial intelligence, cybersecurty & quantum technology to build a safe & secure society.",
+    "paragraph": "Verificare is an identity proofing SaaS provider focusing on big data, artificial intelligence, cybersecurity & quantum technology to build a safe & secure society.",
     "Why": [
       "Manage & control your data",
       "Gain access to global identity",
