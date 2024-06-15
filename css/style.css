@@ -210,8 +210,12 @@ a:focus,
   display: table; /* table; */
   padding: 10px 10px;
   margin: 10px 10px;
- width: 100vw;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+ width: 100%;
+ height: 100vh;
+  background: url('../img/intro-bg.jpg') center center no-repeat;
+  background-size: cover;
+  z-index: -1;
+  background-position: center;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -223,6 +227,9 @@ a:focus,
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
   width: 100vw;
+  background-size: cover;
+  background-position: center;
+  
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -246,8 +253,8 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 100%;
-  padding-bottom: 200px;
+  padding-top: 20%;
+  padding-bottom: 0px;
   text-align: center;
 }
 /* Features Section */
