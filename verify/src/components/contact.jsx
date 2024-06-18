@@ -50,7 +50,7 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Vison</h2>
+                <h2>Vision</h2>
                <h3>To be Africa's leading digital identity platform empowering people to
                control their own information and to
                prove themselves globally.
