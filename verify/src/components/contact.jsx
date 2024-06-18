@@ -52,7 +52,6 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>Vision</h2>
                <h3>To be Africa's leading digital identity platform empowering people to
-               control their own information and to
                prove themselves globally.
                 </h3>
                 
