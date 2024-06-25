@@ -150,14 +150,14 @@
       "text": "Saves time on customer acquisition"
     }, 
     {
-      "icon": "fa fa-shield",
-      "title": "Defense",
-      "text": "We provide forces with support & intelligence gatherings"
+      "icon": "fa fa-location-arrow",
+      "title": "Contact tracing",
+      "text": "Solutions to manage individual data for compliance"
     },
     {
-      "icon": "fa fa-plane", 
-      "title": "Aerospace",
-      "text": "We provide fuel-injected hybrid-electric drone solutions."
+      "icon": "fa fa-pencil", 
+      "title": "Digital signature",
+      "text": "We offer a sign with Verificare feature for busineesses"
     }
   ]
 }
