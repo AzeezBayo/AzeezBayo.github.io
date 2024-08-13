@@ -41,7 +41,7 @@ MVC
 ``` 
 ## Website
 
-Verificare - [Verificare](https://verificare.me/)
+Verificare - [Verificare](https://verificare.africa/)
 
 ## Author
 
